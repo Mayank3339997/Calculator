@@ -1,2 +1,2 @@
 # Calculator
-It is a basic calculator to simple mathematical operations
+Calculator to perform simple mathematical operations like (Addition,subtraction,multiplication and division) in js.
